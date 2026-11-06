@@ -1,0 +1,19 @@
+{
+  "skin_depth_mm": 13.9,
+  "min_wall_mm": 12,
+  "at_min_wall": {
+    "wall_mm": 12,
+    "T_conductor_C": 102.0,
+    "T_enclosure_C": 61.0,
+    "loss_per_conductor_W_m": 115.2,
+    "sc_stress_MPa": 165.5,
+    "mass_kg_m": 8.96,
+    "passes": true
+  },
+  "peak_current_kA": 100.0,
+  "force_kN_per_m": 9.62,
+  "support_force_kN": 28.9,
+  "enclosure_test_pressure_MPa": 1.05,
+  "enclosure_hoop_stress_MPa": 39.4,
+  "enclosure_margin": 2.03
+}
